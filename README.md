@@ -1,4 +1,6 @@
 # hello-world
 此存储库用于练习 GitHub 流程
 
-hdajdhskchkshckhdk cdkchkdhckdhcksc
+About me
+
+My name is CHL
